@@ -714,6 +714,7 @@ width:100%;
 	cursor: pointer;
 	position: relative;
 	line-height: 0px;
+	list-style : none;
 }
 .nbs-flexisel-item > img {
 	cursor: pointer;
